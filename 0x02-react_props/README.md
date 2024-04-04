@@ -1,1 +1,2 @@
-# Author: Mikias Hailu 
+# Author: Mikias Hailu
+# Assignment: alx react props
