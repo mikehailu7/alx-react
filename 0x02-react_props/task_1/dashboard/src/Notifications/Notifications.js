@@ -1,3 +1,4 @@
+//Author: Mikias Hailu 
 import React from 'react';
 import './Notifications.css';
 import close_icon from '../assets/close-icon.png';

@@ -1,3 +1,4 @@
+//Author: Mikias Hialu 
 export const getFullYear = () => {
     return new Date().getFullYear();
   };

@@ -1,3 +1,4 @@
+//Author: Mikias Hailu
 import React from 'react';
 import { getFullYear, getFooterCopy, getLatestNotification } from './utils';
 
