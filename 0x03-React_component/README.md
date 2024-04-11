@@ -1,1 +1,1 @@
-# React Component by Mikias Hailu 
+# React Component by Mikias Hailu Kebede
