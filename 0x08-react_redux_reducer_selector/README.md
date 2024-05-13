@@ -1,2 +1,2 @@
-## React Redux reducer+selector
+## React Redux reducer selector
 # Author: Mikias Hailu
